@@ -4,12 +4,11 @@
 
 MCU   = atmega328p
 F_CPU = 16000000
-BAUD  = 9600
 
 ## A directory for common include files and the simple USART library.
 ## If you move either the current folder or the Library folder, you'll 
 ##  need to change this path to match.
-LIBDIR = ./AVR-Programming-Library
+# LIBDIR = ./AVR-Programming-Library
 
 ##########------------------------------------------------------##########
 ##########                 Programmer Defaults                  ##########
